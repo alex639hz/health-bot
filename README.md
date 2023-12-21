@@ -56,3 +56,6 @@ This example repo uses the NestJS swagger module for API documentation. [NestJS 
 ## Authors
 
  **Pejman Hadavi**
+
+# articles 
+- https://dev.to/macmacky/how-to-debug-nodejs-typescript-code-in-vscode-4o27
