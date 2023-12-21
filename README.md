@@ -59,3 +59,4 @@ This example repo uses the NestJS swagger module for API documentation. [NestJS 
 
 # articles 
 - https://dev.to/macmacky/how-to-debug-nodejs-typescript-code-in-vscode-4o27
+- https://www.npmjs.com/package/node-telegram-bot-api
